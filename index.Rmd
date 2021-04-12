@@ -5,7 +5,6 @@ title: "Welcome!"
 <img src="files/pic2.jpg" style="width:50%">
 
 My name is Matthew Gottlieb, a current student at the Smith School of Business pursuing a Masters degree in Management Analytics. 
-
 Below are some of my projects: 
 <br/><br/>
 
