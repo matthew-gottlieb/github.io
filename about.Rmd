@@ -1,7 +1,7 @@
 ---
 title: "Who is Matthew?"
 ---
-<img src="files/pic.jpg" style="width:25%">
+<img src="files/pic.jpg" style="width:30%">
 
 ### Bio
 Born and raised in Toronto, Ontario, I am an aspiring analytics professional with a passion for uncovering value in data. I currently have 4+ years of success in transitioning data to insight, to actionable plan, with a strong ability to think critically and deliver impactful data-driven stories. 
