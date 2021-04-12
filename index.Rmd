@@ -1,0 +1,50 @@
+---
+title: "Welcome!"
+---
+
+<img src="files/pic2.jpg" style="width:50%">
+
+My name is Matthew Gottlieb, a current student at the Smith School of Business pursuing a Masters degree in Management Analytics. 
+
+Below are some of my projects: 
+<br/><br/>
+
+### [**Project #1 - Drive for Show Putt for Dough!**](https://github.com/matthew-gottlieb/Drive_for_Show_Putt_for_Dough)
+Using Machine Learning techniques to analyze the relationships between Driving, Putting and success on the PGA Tour in 2019.
+<br/>
+
+### **Project Overview**
+The age old adage, "drive for show, putt for dough" has long been spoken in golf. However, what impact do each of these components have on getting a top finish on the PGA Tour? And most importantly, are good driving and putting statistics strong predictors of success?
+<br/>
+
+This project uses data from the 2019 PGA Tour season, with the objective of better understanding the relationships of Driving and Putting with success on tour. It combines exploratory data analysis, multiple linear regression, and binary classification techniques to uncover these relationships, and make predictions about future performance on tour.
+<br/>
+
+### **Code and Resources used**
+ **Python Version**: 3.7.1
+<br>
+**Packages**: Pandas, Numpy, Matplotlib, Seaborn, scikit-learn
+<br>
+ **Original Dataset**: https://www.kaggle.com/bradklassen/pga-tour-20102018-data
+<br/><br/><br/><br/>
+
+### [**Project #2 - NHL Data Exploration**](https://github.com/matthew-gottlieb/NHL_Data_Exploration)
+Analyzing individual player data from the 2016/2017 NHL regular season. 
+
+### **Project Overview**
+The goal of this Data Exploration is to analyze NHL player data from the 2016/2017 NHL season, and understand the following:
+<ul>
+- The distribution of age and career length across the NHL.
+- Country representation. 
+- Who the highest earning players in the NHL are.
+- Which positions tend to command the highest salary.
+- The effects of age on offensive performance.
+- Who the most 'unlucky' players in the NHL are.
+- Over/under performing players in terms of on-ice efficiency and value for money.
+ 
+### **Code and Resources used**
+**Python Version**: 3.7.1
+<br>
+**Packages**: Pandas, Numpy, Matplotlib, Seaborn
+<br>
+**Original Dataset**: https://www.kaggle.com/camnugent/predict-nhl-player-salaries

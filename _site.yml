@@ -1,0 +1,13 @@
+name: "my-website"
+navbar:
+  title: "Matthew Gottlieb"
+  left:
+    - text: "Projects"
+      href: index.html
+    - text: "About Matthew"
+      href: about.html
+      
+output:
+  html_document:
+    theme: flatly
+    highlight: textmate

@@ -1,0 +1,11 @@
+---
+title: "Who is Matthew?"
+---
+<img src="files/pic.jpg" style="width:25%">
+
+### Bio
+Born and raised in Toronto, Ontario, I am an aspiring analytics professional with a passion for uncovering value in data. I currently have 4+ years of success in transitioning data to insight, to actionable plan, with a strong ability to think critically and deliver impactful data-driven stories. 
+
+As a current Master of Management Analytics Student at the Smith School of Business, Queen's University, I have had the opportunity to hone my analytical skills under the instruction of world-class faculty. Most importantly, this experience has taught me to view problems from multiple perspectives, both from a technical and business point of view. I firmly believe that those that can find the opportunity in numbers are destined to succeed, and I find myself committed to this mantra both in the academic and working world.
+
+Outside of work, most of my free time is consumed by sports. I have been in love with ice hockey my entire life (started playing at age 6!), and am also a massive fan of Manchester City in the English Premier League. Sports analytics is another interest of mine, and I enjoy staying up to date with the latest innovations in that space. I also enjoy staying active and golfing during the warmer months.
